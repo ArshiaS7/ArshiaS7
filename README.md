@@ -17,7 +17,7 @@
  <img src="https://user-images.githubusercontent.com/54024838/181187253-9d580f24-1fe0-4254-a909-ae226f1abd5b.png" width="35">
 </a> &nbsp;
 <a href="mailto:arshiasamoodi@gmail.com">
- <img src="https://user-images.githubusercontent.com/54024838/181189554-55ec7523-8d29-46ce-9c57-c3e80b77da02.png" width="35">
+ <img src="https://user-images.githubusercontent.com/54024838/181189554-55ec7523-8d29-46ce-9c57-c3e80b77da02.png" width="40">
 </a>
 </p>
 </DIV>
