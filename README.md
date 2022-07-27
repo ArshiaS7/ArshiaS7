@@ -10,7 +10,7 @@
 
 <div align="left">
 <p> 
-<a href = "https://www.linkedin.com/in/arshia-samoudi-b662131a5/">
+<a href = "https://www.linkedin.com/in/arshia-samoudi/">
  <img src="https://user-images.githubusercontent.com/54024838/181183655-3e895909-6e9d-474a-94c5-178b4ead285d.png" width="35">
 </a> &nbsp;
 <a href = "https://www.researchgate.net/profile/Mohammadarshia-Samoudi">
