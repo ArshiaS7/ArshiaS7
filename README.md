@@ -15,6 +15,10 @@
 </a> &nbsp;
 <a href = "https://www.researchgate.net/profile/Mohammadarshia-Samoudi">
  <img src="https://user-images.githubusercontent.com/54024838/181187253-9d580f24-1fe0-4254-a909-ae226f1abd5b.png" width="35">
+</a> &nbsp;
+<a href="mailto:arshiasamoodi@gmail.com">
+ <img src="https://user-images.githubusercontent.com/54024838/181189554-55ec7523-8d29-46ce-9c57-c3e80b77da02.png" width="35">
+</a>
 </p>
 </DIV>
 
@@ -25,3 +29,4 @@
  <img src="https://user-images.githubusercontent.com/47852354/138564509-b5dffb4e-f48b-4db5-b8a4-1385ef2b22c8.png" width="110">
 </p>
 </DIV>
+
