@@ -18,6 +18,9 @@
 </a> &nbsp;
 <a href="mailto:arshiasamoodi@gmail.com">
  <img src="https://user-images.githubusercontent.com/54024838/181189554-55ec7523-8d29-46ce-9c57-c3e80b77da02.png" width="40">
+</a> &nbsp;
+<a href="mailto:arshias-s79@aut.ac.ir">
+ <img src="https://user-images.githubusercontent.com/54024838/181596602-98b824a1-dc06-4d8c-823a-55a4c4e5ec1e.png" width="40">
 </a>
 </p>
 </DIV>
