@@ -6,7 +6,7 @@
 - 🩺 Former <b> Medical Signal Processing Algorithm Developer </b> at NABZ tech Co.
 - 🔍 Passionate about <b> Research & Develop </b> in <b> Artificial Intelligence </b>, <b> Robotics </b>.
 
-#### 📫 How to reach me: ...
+####  How to reach me: ...
 
 <div align="left">
 <p> 
