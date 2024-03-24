@@ -2,7 +2,6 @@
 
 - 👋 I’m Arshia.
 - 📘 Studying <b> Electrical Engineering </b> with minor in <b> Computer Engineering </b> at AUT.
-<!-- - 🖥️ Working as <b> IOT Engineer </b> at TecNikan Co. -->
 - 🩺 Former <b> Medical Signal Processing Algorithm Developer </b> at NABZ tech Co.
 - 🔍 Passionate about <b> Artificial Intelligence </b>, <b> Robotics </b> and <b> Quantum Computing </b>.
 
