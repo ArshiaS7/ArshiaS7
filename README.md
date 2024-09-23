@@ -3,7 +3,7 @@
 - 👋 I’m Arshia.
 - 📘 Studied <b> Electrical Engineering at AUT.
 - 🩺 Former <b> Medical Signal Processing Algorithm Developer </b> at NABZ tech Co.
-- 🔍 Passionate about <b> Artificial Intelligence </b>, <b> Robotics </b> and <b> Quantum Computing </b>.
+- 🔍 Passionate about <b> Artificial Intelligence </b>, <b> Robotics </b> and <b> Signal Processing </b>.
 
 ####  How to reach me: ...
 
